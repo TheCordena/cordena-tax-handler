@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "programs/cordena_tax_handler"
+]
+workspace.resolver = "2"

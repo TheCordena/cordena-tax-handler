@@ -1,0 +1,1 @@
+/root/cordena-tax-handler/target/sbf-solana-solana/release/libcordena_tax_handler.rlib: /root/cordena-tax-handler/programs/cordena_tax_handler/src/entrypoint.rs /root/cordena-tax-handler/programs/cordena_tax_handler/src/lib.rs /root/cordena-tax-handler/programs/cordena_tax_handler/src/processor.rs
